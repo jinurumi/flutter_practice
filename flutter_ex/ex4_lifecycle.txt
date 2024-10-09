@@ -1,0 +1,12 @@
+/// Lifecycle
+/// 한 객체가 생성이 되고 동작이 이루어진 뒤, 프로그램 내에서 정리되는 과정
+///
+/// Stateless widget
+/// Create -> build() -> dispose
+/// 한번 빌드가 되고 나면 수정 불가
+/// 빌드 위치, dispose 위치 중요함
+///
+/// StateFul widget
+/// 매우 복잡. 스크린 샷 참조
+///
+/// 상태관리 매우 중요함!!
